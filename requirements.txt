@@ -1,6 +1,2 @@
-httplib2==0.9
-oauth2==1.5.211
 python-dateutil==2.2
-six==1.7.3
 treeherder-client==1.0
-
